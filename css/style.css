@@ -1,0 +1,32 @@
+.w-15{
+    width: 4%;
+}
+.home{
+    position: absolute;
+}
+.text{
+    position: absolute;
+    top: 0;
+}
+body{
+    color: brown;
+    font-family: "IBM Plex Serif", serif;
+}
+h2{
+    font-family: "Caveat", cursive;
+}
+.text-brown{
+    color: brown;
+}
+.bg-brown{
+    background-color: brown;
+}
+.nav-link:hover{
+    color: red !important;
+}
+.start-37{
+    left: 37%;
+}
+.navbar-toggler{
+    background-color: brown;
+}
